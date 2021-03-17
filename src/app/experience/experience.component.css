@@ -1,0 +1,9 @@
+:host{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+h5 {
+    font-style: italic;
+    font-weight: bold;
+}

@@ -1,0 +1,30 @@
+:host{
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+}
+.side{
+    padding: 20px;
+    background-color: peru;
+
+}
+.content{
+    padding: 20px;
+}
+
+header{
+    padding: 20px;
+   background-color : steelblue;
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   color:  white;
+}
+
+footer{
+    padding: 20px;
+    background-color : green;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:  white;
+}
+
